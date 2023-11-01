@@ -1,5 +1,8 @@
-.container {
+* {
     background-image: linear-gradient(180deg, #130754 0%, #3b2f80 100%);
+}
+.container {
+/*     background-image: linear-gradient(180deg, #130754 0%, #3b2f80 100%); */
     width: auto;
     height: max-content;
     padding-bottom: 4em;
