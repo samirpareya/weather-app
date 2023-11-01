@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.0e25ff84.css",
+    "main.js": "/weather-app/static/js/main.0bf55792.js",
+    "static/js/787.d9312eb8.chunk.js": "/weather-app/static/js/787.d9312eb8.chunk.js",
+    "static/media/moon-cloud.png": "/weather-app/static/media/moon-cloud.094381b3a184b309ffa4.png",
+    "static/media/cloud.png": "/weather-app/static/media/cloud.8026f30c54d0ebd6bb44.png",
+    "static/media/moon-cloud-rain.png": "/weather-app/static/media/moon-cloud-rain.cce395d205f0c10d48d4.png",
+    "static/media/snow.png": "/weather-app/static/media/snow.398f3aa95574bb9cd7f2.png",
+    "static/media/sun-cloud-rain.png": "/weather-app/static/media/sun-cloud-rain.53b433764e31ba6e43ac.png",
+    "static/media/cloud-rain.png": "/weather-app/static/media/cloud-rain.e349ac56901487479006.png",
+    "static/media/cloud-cloud.png": "/weather-app/static/media/cloud-cloud.8f17a0d9ac5340133393.png",
+    "static/media/cloud-storm-rain.png": "/weather-app/static/media/cloud-storm-rain.3aed3720908332229f54.png",
+    "static/media/humidity.png": "/weather-app/static/media/humidity.582a11029090f319462f.png",
+    "static/media/sun-cloud.png": "/weather-app/static/media/sun-cloud.5aff0f182f2efb321ce3.png",
+    "static/media/moon.png": "/weather-app/static/media/moon.75caa10ef0e22b0d7c36.png",
+    "static/media/foog.png": "/weather-app/static/media/foog.22b09679113b01db5f51.png",
+    "static/media/sun.png": "/weather-app/static/media/sun.771c4b0162cb35b00f22.png",
+    "static/media/wind.png": "/weather-app/static/media/wind.341923e728ed159bf21b.png",
+    "static/media/search.png": "/weather-app/static/media/search.f8625530f28f5f5d0bfa.png",
+    "index.html": "/weather-app/index.html",
+    "main.0e25ff84.css.map": "/weather-app/static/css/main.0e25ff84.css.map",
+    "main.0bf55792.js.map": "/weather-app/static/js/main.0bf55792.js.map",
+    "787.d9312eb8.chunk.js.map": "/weather-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e25ff84.css",
+    "static/js/main.0bf55792.js"
+  ]
+}
